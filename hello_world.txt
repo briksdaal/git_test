@@ -1,2 +1,3 @@
 Added some text to check change to modified
 Testing adding everything
+Testing commit message using VS
